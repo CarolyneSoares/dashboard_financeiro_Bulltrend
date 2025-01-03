@@ -4,6 +4,13 @@ Este projeto foi realizado como parte do curso da Alura, com o desafio de simula
 
 O objetivo foi desenvolver um **relatório interativo** que auxiliasse o time de consultoria a analisar estrategicamente os ativos das carteiras de seus clientes, combinando duas importantes correntes de análise de ativos: **análise fundamentalista** e **análise gráfica**.
 
+
+
+https://github.com/user-attachments/assets/0b8f09d9-7595-47db-b850-d9873433dda0
+
+
+
+
 ---
 
 ## Base de Dados
